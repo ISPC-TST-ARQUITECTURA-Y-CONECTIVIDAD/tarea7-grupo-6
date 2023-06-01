@@ -10,3 +10,5 @@
 4. [Leonardo Gonzalez](https://github.com/leolgonzalez)
 5. [Mario Gonzalez](https://github.com/mariogonzalezispc)
 6. [Pedro Rojo](https://github.com/tecnosisnet)
+
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea7-grupo-6/assets/109010330/472da090-98f7-4206-8b6b-da000e7fede1)
