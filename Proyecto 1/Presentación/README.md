@@ -1,3 +1,4 @@
 # Video de simulacion en Proteus y fisico
 
-https://youtu.be/Fxd9lNGhSiw 
+
+[![Alt text](https://img.youtube.com/vi/Fxd9lNGhSiw/0.jpg)](https://www.youtube.com/watch?v=Fxd9lNGhSiw)
