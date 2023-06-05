@@ -16,4 +16,4 @@
 ## Demostracion de Hardware ##
 * Demostracion de funcionamiento de Arduino Uno con placa Bluetooth H5
 
-[![Demo](https://www.youtube.com/watch?v=ti1mLRGaHA8/2.jpg)](https://www.youtube.com/watch?v=ti1mLRGaHA8)
+[![Demo](https://www.youtube.com/vi/watch?v=ti1mLRGaHA8/0.jpg)](https://www.youtube.com/watch?v=ti1mLRGaHA8)
