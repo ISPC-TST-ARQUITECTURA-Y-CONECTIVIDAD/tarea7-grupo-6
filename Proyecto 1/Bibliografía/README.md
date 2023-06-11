@@ -4,6 +4,10 @@ Para el desarrollo de la actividad se consulta a las siguientes fuentes de infor
 
 Internet :
 
+APP CON BLUETOOTH Y LA SIMULACIÓN EN  PROTEUS.
+
+https://www.youtube.com/watch?v=Fxd9INGhSiw
+
 
 
 Simulación de Arduino utilizando Proteus
