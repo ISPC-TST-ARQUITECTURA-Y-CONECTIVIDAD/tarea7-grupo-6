@@ -8,7 +8,9 @@ APP CON BLUETOOTH Y LA SIMULACIÓN EN  PROTEUS.
 
 https://www.youtube.com/watch?v=Fxd9INGhSiw
 
+APP CON BLUETOOTH Y LA SIMULACIÓN EN  PROTEUS.
 
+https://www.youtube.com/watch?v=Fxd9INGhSiw
 
 Simulación de Arduino utilizando Proteus
 
