@@ -18,8 +18,4 @@ Simulación de Arduino utilizando Proteus
 https://www.youtube.com/watch?v=Fxd9INGhSiw
 
  
-Bibliografia especifica : Documentación sobre " BLUETOOTH y SIMULACION ARDUINO UTILIZANDO PROTEUS "
-
-
-
-
+Bibliografia especifica : Documentación sobre " BLUETOOTH y SIMULACION ARDUINO UTILIZANDO PROTEUS 
